@@ -1,7 +1,20 @@
 .test1 {
-    background-color: #EDE7F6;
+
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #311B92;
     font-size: xx-large;
     display: inline-flex;
+}
+
+body {
+    background-color: #EDE7F6;
+}
+
+.pri500 {
+    background-color: #673AB7;
+    height: 2rem;
+}
+
+.pri700 {
+    background-color: #512DA8;
 }
