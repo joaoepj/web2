@@ -1,5 +1,7 @@
-test1: {
+.test1 {
     background-color: aqua;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chartreuse;
     font-size: xx-large;
+    display: inline-flexbox;
 }
