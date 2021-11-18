@@ -24,3 +24,7 @@ body {
     border: 0pt;
 
 }
+
+.bs {
+    box-shadow: 5px 10px;
+} 
