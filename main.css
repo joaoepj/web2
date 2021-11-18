@@ -2,17 +2,16 @@
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #311B92;
-    font-size: xx-large;
+    
     display: inline-flex;
 }
 
-body {
-    background-color: #EDE7F6;
-}
 
 .pri500 {
     background-color: #673AB7;
-    height: 2rem;
+    height: 2.5rem;
+    color: white;
+    font-size: xx-large;
 }
 
 .pri700 {
