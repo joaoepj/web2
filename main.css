@@ -1,3 +1,11 @@
+
+div {
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    display: inline-flexbox;
+}
+
 .test1 {
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -28,3 +36,4 @@ body {
 .bs {
     box-shadow: 5px 10px;
 } 
+
