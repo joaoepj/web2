@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* HTML Tags */
 header {
     height: 3rem;
@@ -47,3 +48,44 @@ div.body {
 .text-font {
     font-family:Arial, Helvetica, sans-serif;
 }
+=======
+
+div {
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    display: inline-flexbox;
+}
+
+.test1 {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #311B92;
+    
+    display: inline-flex;
+}
+
+
+.pri500 {
+    background-color: #673AB7;
+    height: 2.5rem;
+    color: white;
+    font-size: xx-large;
+    
+}
+
+.pri700 {
+    background-color: #512DA8;
+}
+
+body {
+    margin: 0pt;
+    border: 0pt;
+
+}
+
+.bs {
+    box-shadow: 5px 10px;
+} 
+
+>>>>>>> df8f26b20c4b7b56ffe9bab706c711d1d3136f7e
