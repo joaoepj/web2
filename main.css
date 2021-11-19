@@ -9,7 +9,7 @@
 
 .pri500 {
     background-color: #673AB7;
-    height: 2.5rem;
+    height: 3rem;
     color: white;
     font-size: xx-large;
     
@@ -25,6 +25,11 @@ body {
 
 }
 
-.bs {
-    box-shadow: 5px 10px;
-} 
+.pri500 .bs {
+    box-shadow: 0 2px 4px rgb(0 0 0 / 50%);
+}
+
+.title {
+    padding: 51px 52px 53px 54px;
+    border: 100px 0px 0px 0px;
+}
